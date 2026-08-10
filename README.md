@@ -1,5 +1,6 @@
 # Tazewell
 # From Cattle Drives to Clean Power: A Strategic Economic Growth Plan for the US 19 Corridor
+![Tazwell book cover](Tazwell.PNG)
 
 ## Detailed Book Outline
 
