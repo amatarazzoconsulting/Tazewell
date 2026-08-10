@@ -3686,37 +3686,759 @@ Organizations should deploy IronMesh-compatible devices that run LOWL firmware, 
 
 ### Appendices
 
-**Appendix A: City Economic Profiles by County**
-- Tazewell County: agriculture, manufacturing, energy
-- Russell County: manufacturing, dairy, retail
-- Wise County: PSH potential (Bullitt Mine), education
-- Dickenson County: entrepreneurship, workforce development
-- Lee County: manufacturing (White Rock Truss)
-- Scott County: manufacturing (VFP)
-- Buchanan County: manufacturing (West River Conveyors)
-- City of Norton: regional services
+# Appendix A: City Economic Profiles by County
 
-**Appendix B: Investment and Grant Sources**
-- VCEDA loan and grant application process
-- ARC POWER Initiative application guidelines
-- USDA Rural Development programs
-- DOE Office of Clean Energy Demonstrations
+## Introduction
 
-**Appendix C: Key Contacts Directory**
+The counties and city of Southwest Virginia's coalfield region each possess distinct economic identities shaped by their unique assets, histories, and recent investments. While united by a shared legacy of coal dependence and a common vision for diversification, their individual strengths—ranging from advanced manufacturing and agriculture to education and outdoor recreation—form the bedrock of the region's collective revitalization strategy.
 
-**Appendix D: Transportation and Logistics Maps**
-- US 19 Corridor (Virginia and West Virginia)
-- Rail networks (CSX and Norfolk Southern)
-- Interstate connections (I-77, I-64, I-79, I-81)
+---
 
-**Appendix E: PSH Feasibility Study Parameters**
-- Site selection criteria 
-- Reservoir capacity requirements
-- Environmental impact considerations
-- Cost estimation models
+## Tazewell County: Agriculture, Manufacturing, and Energy
 
-**Appendix F: Agricultural and Timber Resources**
-- Hybrid poplar silvicultural guidelines
-- Reclaimed mine land forestry: Appalachian Regional Reforestation Initiative (ARRI)
-- Livestock and dairy best practices
-- Food processing facility requirements (USDA inspection)
+| Organization | Contact | Phone | Email | Address |
+|---|---|---|---|---|
+| **Tazewell County Administration** | Main Office | (276) 988-1401 | — | 101 E. Main Street, Tazewell, VA 24651 |
+| **Tazewell County IDA** | Executive Director | (276) 988-3501 | — | 205 N. Central Avenue, Tazewell, VA 24651 |
+| **Tazewell County Chamber of Commerce** | Main Office | (276) 988-2141 | info@tazewellchamber.org | 512 E. Main Street, Tazewell, VA 24651 |
+
+Tazewell County's economy is currently navigating a transition away from its historical dependence on coal, which has seen a long-term decline since the 1960s due to competition from other energy sources and increased mechanization . The county has felt the impact of the "boom-bust" cycles of the mining industry, yet it is actively pursuing a more diversified base. Today, the economy is supported by a mix of manufacturing, with major employers like Lawrence Brothers in heavy metal fabrication ; agriculture, centered on its strong cattle industry; and the healthcare and service sectors, which have grown in recent decades to provide a stable employment base . A significant strategic opportunity lies in the development of the proposed pumped storage hydropower (PSH) facility on East River Mountain, which represents one of the most important prospective economic development projects in the region's history.
+
+---
+
+## Russell County: Manufacturing, Dairy, and Retail
+
+| Organization | Contact | Phone | Email | Address |
+|---|---|---|---|---|
+| **Russell County Administration** | Main Office | (276) 889-8000 | — | 140 W. Main Street, Lebanon, VA 24266 |
+| **Russell County IDA** | Ernie McFaddin, Executive Director | (276) 889-1109 | — | 181 Highland Drive, Lebanon, VA 24266 |
+| **Russell County Chamber of Commerce** | Main Office | (276) 889-8151 | — | 104 E. Main Street, Lebanon, VA 24266 |
+
+Russell County has emerged as a strong and diversified manufacturing center. The manufacturing sector has grown significantly through major investments by Tate, which expanded into the county to manufacture data center infrastructure components , and Simmons Equipment Company, which invested $8.5 million to expand its mining equipment operations, creating 75 new jobs. The county has also developed a dynamic agricultural sector, highlighted by Bates Family Farm's relocation and expansion in Lebanon, a $1 million project that supports the growing demand for its value-added goat milk products . Lebanon serves as a regional retail and government hub, benefiting from its location along major transportation arteries. The county's commitment to agribusiness as a key component of its local economy is a strategic priority .
+
+---
+
+## Wise County: Energy Innovation (Data Center Ridge) and Education
+
+| Organization | Contact | Phone | Email | Address |
+|---|---|---|---|---|
+| **Wise County Administration** | Main Office | (276) 328-2321 | — | 206 E. Main Street, Wise, VA 24293 |
+| **Wise County IDA** | Main Office | (276) 328-2157 | — | 105 E. Main Street, Wise, VA 24293 |
+| **UVA Wise** | Main Office | (276) 328-0100 | — | 1 College Avenue, Wise, VA 24293 |
+
+Wise County is positioning itself as a hub for clean energy innovation and higher education. Its most significant economic development prospect is the "Data Center Ridge" initiative, a state-backed project aiming to transform a massive tract of reclaimed mine land—including the defunct Bullitt Mine—into a clean energy-powered data center campus . This project seeks to attract tech companies to build solar-powered data centers on up to 2,000 acres of the site, potentially leveraging underground mine water for cooling . The long-term vision for the larger Energy DELTA Lab project includes developing up to 1 gigawatt of new power and attracting billions in private investment . The project is anchored by the region's potential as an "energy capital" of the future, supported by Governor Glenn Youngkin's administration . UVA Wise provides a strong institutional anchor, supporting workforce and community development .
+
+---
+
+## Dickenson County: Entrepreneurship and Workforce Development
+
+| Organization | Contact | Phone | Email | Address |
+|---|---|---|---|---|
+| **Dickenson County Administration** | Main Office | (276) 926-1600 | — | 245 Memorial Drive, Clintwood, VA 24228 |
+| **Dickenson County IDA** | Dana Cronkhite, Executive Director | (276) 926-6559 | — | 245 Memorial Drive, Clintwood, VA 24228 |
+| **Dickenson Center for Education and Research (DCER)** | Sabrina Stanley, Communications Specialist | (276) 365-5164 | sstanley@dickensonva.org | 357 Education Hwy, Clintwood, VA 24228 |
+
+Dickenson County is placing a strategic emphasis on building its entrepreneurial ecosystem and developing its workforce. The county is developing a small business incubator space at the Dickenson Center for Education and Research (DCER), supported by a $42,500 grant from VCEDA, as part of the Dickenson County Community Business Launch program . This program aims to foster local entrepreneurship and provide comprehensive support services to new businesses, creating new local ventures, jobs, and private investment . The county has also partnered with UVA Wise to host a Hatch startup accelerator bootcamp at the new incubator, providing hands-on instruction for aspiring entrepreneurs . This focus on building a culture of innovation and providing resources for local talent is central to the county's long-term economic resilience strategy.
+
+---
+
+## Lee County: Manufacturing (White Rock Truss)
+
+| Organization | Contact | Phone | Email | Address |
+|---|---|---|---|---|
+| **Lee County Administration** | Robbie Wright, County Administrator | (276) 346-7766 | — | 352 Fairground Drive, Jonesville, VA 24263 |
+| **Lee County EDA** | Leslie Litton, Community Development Director | (276) 346-7766 | — | 352 Fairground Drive, Jonesville, VA 24263 |
+| **Lee County Chamber of Commerce** | Main Office | (276) 346-5112 | — | 286 Industrial Drive, Jonesville, VA 24263 |
+
+Lee County's manufacturing sector is experiencing significant growth, led by the expansion of White Rock Truss & Components. The company is investing $1.5 million to expand its operations in Rose Hill, building a new lumber shed and upgrading equipment, a project that will create 27 new jobs . White Rock Truss manufactures construction products, including trusses and engineered lumber, for home construction companies and retailers, with products shipped across the Southeast and to Mexico . Governor Glenn Youngkin highlighted the project as a prime example of the entrepreneurial spirit defining Southwest Virginia, and it is supported by partnerships with VCEDA, the Virginia Economic Development Partnership, and the Tobacco Region Revitalization Commission .
+
+---
+
+## Scott County: Manufacturing (VFP)
+
+| Organization | Contact | Phone | Email | Address |
+|---|---|---|---|---|
+| **Scott County Administration** | Main Office | (276) 386-7413 | — | 192 West Jackson Street, Suite 3, Gate City, VA 24251 |
+| **Scott County IDA** | Main Office | (276) 386-9340 | — | 104 E. Jackson Street, Gate City, VA 24251 |
+| **LENOWISCO PDC** | Duane A. Miller, Executive Director | (276) 386-1200 | dmiller@lenowisco.org | 61 Short Street, Suite 300, Wise, VA 24293 |
+
+Scott County is home to one of the largest and most significant manufacturing employers in the region: VFP, Inc. VFP announced a massive $35 million expansion of its Duffield campus in 2025, which is expected to create 200 new jobs and double the company's production capacity . This expansion is driven by surging demand for VFP's custom-designed enclosures that protect critical equipment for utility providers and the data center industry . The company is a major economic bedrock for the region, with its growth having a significant ripple effect on local vendors and suppliers . VFP's success has also spurred related investments, such as a $1 million state award to support the development of new workforce housing in the area .
+
+---
+
+## Buchanan County: Manufacturing (West River Conveyors)
+
+| Organization | Contact | Phone | Email | Address |
+|---|---|---|---|---|
+| **Buchanan County Administration** | Main Office | (276) 935-6571 | — | 1036 Henrico Street, Grundy, VA 24614 |
+| **Buchanan County IDA** | Matt, Director | (276) 935-6571 | — | 1036 Henrico Street, Grundy, VA 24614 |
+| **Cumberland Plateau PDC** | Scotty Wampler, Executive Director | (276) 889-1078 | swampler@cppdc.org | 3168 US Highway 19, Lebanon, VA 24266 |
+
+Buchanan County is strengthening its manufacturing base through the strategic relocation and expansion of West River Conveyors and Machinery Company. A VCEDA loan of up to $4 million is supporting the company's move to the Southern Gap Industrial Park, where it will construct an approximately 65,000-square-foot manufacturing facility . West River Conveyors is a long-standing company and one of the largest private employers in Buchanan County, designing and manufacturing conveyor systems for a variety of industries, including mining, aggregate, and energy . The new facility will be located near the new Coalfields Expressway, providing an excellent logistical location for the company's operations and future growth, with a projection of 25 new full-time jobs over 15 years .
+
+---
+
+## City of Norton: Regional Services and Outdoor Recreation
+
+| Organization | Contact | Phone | Email | Address |
+|---|---|---|---|---|
+| **City of Norton** | Main Office | (276) 679-0330 | — | 618 Virginia Avenue NW, Norton, VA 24273 |
+| **Norton IDA** | Main Office | (276) 679-0330 | — | 618 Virginia Avenue NW, Norton, VA 24273 |
+| **Norton Department of Economic Development** | Main Office | (276) 679-0330 | — | 618 Virginia Avenue NW, Norton, VA 24273 |
+
+The City of Norton serves as a regional hub for commerce and services, supported by its strategic location at the intersection of major highways U.S. 23 and U.S. 58 Alternate . As the smallest incorporated city in Virginia, Norton is actively pursuing an economic revitalization strategy focused on becoming an emerging hub for outdoor recreation. The city owns and operates the 1,000-acre Flag Rock Recreation Area, which offers extensive hiking, mountain biking, and camping opportunities . A significant project underway is "Project Apple," which will redevelop a key downtown property into a multi-use commercial space that will include the Sugar Hill Cidery, a UVA-Wise entrepreneurial center, and an expo center/event space, positioning the city as a vibrant regional center for small business and tourism .
+
+# Appendix B: Investment and Grant Sources
+
+## VCEDA Loan and Grant Application Process
+
+The Virginia Coalfield Economic Development Authority (VCEDA) offers financing programs to support business growth and economic diversification across the seven-county, one-city region.
+
+**VCEDA Contact Information:**
+| Department/Person | Phone | Email | Address |
+|---|---|---|---|
+| **Main Office** | (276) 889-0381 | info@vceda.us | 527 East Main Street, Lebanon, VA 24266 |
+| **Jonathan Belcher** | (276) 889-0381 | jbelcher@vceda.us | Executive Director/General Counsel |
+| **Marketta Horton** | (276) 889-0381 | mhorton@vceda.us | Funds Administrator |
+| **Angie Farmer** | (276) 889-0381 | afarmer@vceda.us | Economic Development Specialist |
+| **Diane Thomas** | (276) 889-0381 | dthomas@vceda.us | Business Development Specialist |
+| **Website** | — | info@vceda.us | www.vceda.us |
+| **Seed Capital Fund** | — | info@vceda.us | Seed Capital Matching Fund |
+
+**VCEDA Loan and Grant Application Process:** The VCEDA financing process begins with the company contacting VCEDA to determine initial eligibility and obtain an application. A meeting with VCEDA staff is typically scheduled to discuss the request. A resolution of support is generally required from the local industrial or economic development authority where the project will be located. The application is then submitted to VCEDA, where it is reviewed and, if found in order, placed on the agenda for the next meeting of VCEDA's Project Review Committee. The committee reviews the application and makes a recommendation to the full VCEDA Board, which votes on approval. If approved, loan or grant documentation is prepared and a closing is scheduled. Applications are due at least one month in advance of the VCEDA Board meeting at which they are to be considered, and if the loan or grant agreement is not signed within 180 days of approval, the loan or grant is canceled automatically.
+
+## ARC POWER Initiative Application Guidelines
+
+The Appalachian Regional Commission's (ARC) POWER Initiative provides competitive funding for projects that support economic diversification and revitalization in coal-impacted communities.
+
+**ARC Contact Information:**
+| Department/Person | Phone | Email | Address |
+|---|---|---|---|
+| **ARC Main Office** | (202) 884-7700 | — | 1666 Connecticut Ave NW, Suite 700, Washington, DC 20009 |
+| **POWER Initiative** | — | power@arc.gov | POWER Initiative Questions |
+| **Virginia State Program Manager** | — | — | Contact via ARC website |
+| **Website** | — | — | www.arc.gov |
+| **POWER Portal** | — | — | https://www.arc.gov/pathways |
+
+**ARC POWER Initiative Application Guidelines:** To apply for POWER funding, applicants must first register in the System for Award Management (SAM) and obtain a Unique Entity ID (UEI). A required Letter of Intent (LOI) must be submitted by the annual deadline to gain access to the POWER application portal. Applicants are required to contact their State Program Manager prior to submitting a LOI. The application must demonstrate how the project aligns with at least one ARC Investment Priority, POWER Investment Priority, and State/Regional Priority. The project narrative is the core of the application and must include an executive summary, project description, timeline, coal impact narrative, rationale, alignment with priorities, and evidence of local demand. Letters of Support from key stakeholders are required. Implementation applications require additional documentation including planning and supporting assessments, market analysis, and a sustainability plan. Applications are submitted through the POWER application portal, and ARC recommends submitting at least 48 hours before the deadline.
+
+## USDA Rural Development Programs
+
+USDA Rural Development provides a wide range of programs to support rural businesses, infrastructure, agriculture, and community development in the US 19 corridor region.
+
+**USDA Rural Development Contact Information:**
+| Department/Person | Phone | Email | Address |
+|---|---|---|---|
+| **USDA Rural Development Virginia** | (804) 287-1500 | — | 1606 Santa Rosa Road, Suite 117, Richmond, VA 23229 |
+| **Farm Service Agency - Tazewell County** | (276) 988-4631 | — | 306 Riverside Drive, Tazewell, VA 24651 |
+| **Natural Resources Conservation Service** | (276) 988-4631 | — | 306 Riverside Drive, Tazewell, VA 24651 |
+| **Website** | — | — | www.rd.usda.gov/va |
+
+**USDA Rural Development Programs:** USDA Rural Development invests in rural America with programs to promote rural prosperity by expanding access to high-speed internet, electricity, and transportation infrastructure, and supporting economic growth, healthcare, education, housing, and other community essentials. The Distance Learning and Telemedicine (DLT) Grant Program helps rural communities use technology to connect to educational and healthcare opportunities. Rural Business Development Grants support business development projects in rural communities, while the Intermediary Relending Program provides loans to intermediaries that lend to businesses in rural areas. The Conservation Reserve Program supports environmental conservation on agricultural lands. USDA also provides support for cooperative development to assist in economic development, such as with a poultry co-op in Virginia.
+
+## DOE Office of Clean Energy Demonstrations
+
+The U.S. Department of Energy's Office of Clean Energy Demonstrations (OCED) provides funding for large-scale clean energy demonstration projects, including energy storage, clean hydrogen, carbon management, advanced nuclear reactors, and industrial demonstrations.
+
+**OCED Contact Information:**
+| Department/Person | Phone | Email | Address |
+|---|---|---|---|
+| **OCED Main Office** | (202) 586-OCED | OCED@hq.doe.gov | 1000 Independence Ave SW, Washington, DC 20585 |
+| **Website** | — | — | energy.gov/oced |
+| **OCED Exchange** | — | — | https://oced-exchange.energy.gov |
+
+**DOE Office of Clean Energy Demonstrations:** OCED was established in December 2021 to help scale clean energy technologies. The application process includes a two-step submission: a Concept Paper followed by a full Application. The Concept Paper must address all requirements in the Funding Opportunity Announcement (FOA), including a Demonstration Plan & Project Team Description, Community Benefits Plan, and Management and Organization sections. Each Concept Paper must be limited to a single project site or an aggregated set of proposed project sites. For projects on mine land, applicants must show that the mine or former mine is subject to either Title IV and V of the Surface Mining Control and Reclamation Act (SMCRA) or the Mining Law of 1872. Applicants may provide copies of a Title V permit from the applicable permitting authority or demonstrate that the application site is in the Title IV database maintained by the Office of Surface Mining Reclamation and Enforcement. OCED has opened applications for up to $100 million in funding to support pilot-scale energy storage demonstration projects and has issued a Notice of Intent for up to $400 million for community-focused clean energy solutions in rural and remote areas.
+
+---
+
+**Summary Table: Investment and Grant Sources**
+
+| Source | Contact | Key Program | Key Features |
+|---|---|---|---|
+| **VCEDA** | (276) 889-0381 | Seed Capital Matching Fund, Tourism Fund, Infrastructure Loans | Matching grants up to $10,000; low-interest loans; workforce training grants |
+| **ARC POWER** | power@arc.gov | POWER Initiative | Up to $2.5M; LOI required; State Program Manager contact required |
+| **USDA Rural Development** | (804) 287-1500 | DLT Grants, Business Development | Broadband, education, healthcare, business development |
+| **DOE OCED** | (202) 586-OCED | Clean Energy Demonstrations | Up to $400M; Concept Paper + Application; mine land eligibility |
+
+# Appendix C: Key Contacts Directory
+
+This directory provides essential contact information for the organizations driving economic development in the US 19 Corridor region. Contacts are organized by category for easy reference.
+
+---
+
+## VCEDA (Virginia Coalfield Economic Development Authority)
+
+| Name | Title | Phone | Email | Address |
+|---|---|---|---|---|
+| **Jonathan Belcher** | Executive Director/General Counsel | (276) 889-0381 | jonathan@vceda.us | 527 East Main Street, Lebanon, VA 24266 |
+| **Marketta Horton** | Funds Administrator | (276) 889-0381 | — | 527 East Main Street, Lebanon, VA 24266 |
+| **Mitzi White** | Economic Development Specialist | (276) 889-0381 | — | 527 East Main Street, Lebanon, VA 24266 |
+| **Angie Farmer** | Economic Development Specialist | (276) 889-0381 | — | 527 East Main Street, Lebanon, VA 24266 |
+| **Diane Thomas** | Business Development Specialist | (276) 889-0381 | — | 527 East Main Street, Lebanon, VA 24266 |
+| **Susan Copeland** | Marketing Coordinator | (276) 889-0381 | — | 527 East Main Street, Lebanon, VA 24266 |
+| **Cathy St. Clair** | Communications Coordinator | (276) 889-0381 | — | 527 East Main Street, Lebanon, VA 24266 |
+| **Charlotte Mullins** | Marketing Ambassador | (276) 889-0381 | — | 527 East Main Street, Lebanon, VA 24266 |
+| **Main Office** | — | (276) 889-0381 or (800) 735-9999 | info@vceda.us | 527 East Main Street, Lebanon, VA 24266 |
+
+---
+
+## Planning District Commissions
+
+| Name | Title | Phone | Email | Address |
+|---|---|---|---|---|
+| **Scotty Wampler** | Executive Director, Cumberland Plateau PDC | (276) 889-1078 | swampler@cppdc.org | 3168 US Highway 19, Lebanon, VA 24266 |
+| **Duane A. Miller** | Executive Director, LENOWISCO PDC | (276) 386-1200 | dmiller@lenowisco.org | 61 Short Street, Suite 300, Wise, VA 24293 |
+
+---
+
+## VCEDA Board Members
+
+| Name | Organization | Role |
+|---|---|---|
+| **Greg Edwards** | — | Chairman |
+| **Andy Hrovatic** | — | Vice Chairman |
+| **Troy Nichols** | — | Secretary |
+| **Brian Hess** | — | Treasurer |
+| **J. P. [Richardson]** | Paramont Contura, LLC | Coal Producer Representative |
+| **—** | Wellmore Energy | Coal Producer Representative |
+| **—** | Coronado IV LLC | Coal Producer Representative |
+| **Sonny Ciampanella** | Pocahontas Gas | Gas Producer Representative |
+| **Barbara Altizer** | Metallurgical Coal Producers Association | Virginia Coal & Energy Alliance |
+| **Simeon Ewing** | — | Governor's Appointee |
+| **Matthew Hill** | — | Governor's Appointee |
+| **Gerald Lawson** | — | Governor's Appointee |
+| **Roger Rife** | Buchanan County | Board of Supervisors Representative |
+| **Chris Hall** | Dickenson County | Board of Supervisors Representative |
+| **Curtis Breeding** | Tazewell County | Board of Supervisors Representative |
+| **Tim Stuller** | Virginia Economic Development Partnership | VEDP Representative |
+
+---
+
+## State & Federal Government Agencies
+
+| Agency | Contact | Title | Phone | Email | Address |
+|---|---|---|---|---|---|
+| **Appalachian Regional Commission (ARC)** | Main Office | — | (202) 884-7700 | info@arc.gov | 1666 Connecticut Avenue NW, Suite 700, Washington, DC 20009 |
+| **ARC POWER Initiative** | Program Office | — | — | power@arc.gov | 1666 Connecticut Avenue NW, Suite 700, Washington, DC 20009 |
+| **USDA Rural Development - Virginia** | Virginia State Office | — | (804) 287-1500 | — | 1606 Santa Rosa Road, Suite 238, Richmond, VA 23229 |
+| **FERC** | Public Reference | — | (202) 502-6652 or (866) 208-3676 | ferconlinesupport@ferc.gov | 888 First Street NE, Washington, DC 20426 |
+| **Timothy Konnert** | Acting Director, Division of Hydropower Licensing, FERC | (202) 502-6359 | — | 888 First Street NE, Washington, DC 20426 |
+| **DOE OCED** | Main Office | — | (202) 586-OCED | OCED@hq.doe.gov | 1000 Independence Ave SW, Washington, DC 20585 |
+| **DOE OCED** | Tribal Policy | — | — | OCED_Tribal@hq.doe.gov | 1000 Independence Ave SW, Washington, DC 20585 |
+
+---
+
+## Additional Organizations
+
+| Organization | Contact | Title | Phone | Email | Address |
+|---|---|---|---|---|---|
+| **Virginia Department of Housing and Community Development** | Tamarah Holmes | Director | (804) 371-7000 | — | 600 E. Main Street, Suite 300, Richmond, VA 23219 |
+| **Virginia Economic Development Partnership** | Jason El Koubi | President & CEO | (804) 545-5600 | — | 901 E. Byrd Street, Suite 700, Richmond, VA 23219 |
+
+---
+
+## Business & Private Sector Contacts
+
+| Organization | Contact | Title | Phone | Email | Address |
+|---|---|---|---|---|---|
+| **VFP, Inc.** | Steve Jones | Executive Vice President and CFO | — | — | Duffield Campus, Scott County, VA |
+| **Lawrence Brothers, Inc.** | Melanie Protti-Lawrence | President | — | — | Bluefield, VA |
+| **CGI** | Vijay Srinivasan | President, U.S. Commercial & State Government Operations | — | — | — |
+| **Center on Rural Innovation** | Amanda Weinstein | Director of Research | — | — | — |
+| **Southwest Virginia Alliance for Manufacturing** | Lennie Gail Mitcham | Executive Director | — | — | — |
+
+---
+
+## FERC Hydropower Branch Contacts
+
+| Contact | Branch | Phone |
+|---|---|---|
+| **John Smith** | Mid-Atlantic Branch | (202) 502-8972 |
+| **Janet Hutzel** | Midwest Branch | — |
+| **Emily Carter** | New England Branch | (202) 502-6512 |
+| **Michael Tust** | Northwest Branch | (202) 502-6522 |
+| **Christopher Millard** | South Branch | (202) 502-8256 |
+| **Ryan Hansen** | West Branch | (202) 502-8074 |
+| **Nicholas Tackett** | Great Lakes Branch | (202) 502-6783 |
+
+---
+
+## Quick Reference Summary
+
+| Organization | Key Contact | Primary Purpose |
+|---|---|---|
+| **VCEDA** | Jonathan Belcher | Economic development financing and coordination |
+| **Cumberland Plateau PDC** | Scotty Wampler | Regional planning for Buchanan, Dickenson, Russell, Tazewell |
+| **LENOWISCO PDC** | Duane A. Miller | Regional planning for Lee, Scott, Wise, Norton |
+| **ARC** | POWER Initiative | Federal funding for coal-impacted communities |
+| **USDA Rural Development** | Virginia State Office | Agricultural and rural business programs |
+| **FERC** | Hydropower Division | PSH project licensing |
+| **DOE OCED** | Main Office | Clean energy demonstration projects |
+
+# Appendix D: Transportation and Logistics Maps
+
+## Introduction
+
+The US 19 Corridor's transportation infrastructure forms the backbone of the region's economic development strategy, providing the connectivity needed for freight movement, commuter access, and logistics operations. This appendix provides detailed specifications for the corridor's key transportation assets, including dimensions, locations, and operational characteristics.
+
+---
+
+## US 19 Corridor (Virginia and West Virginia)
+
+### Route Overview
+
+U.S. Route 19 serves as the primary north-south transportation artery through the Tazewell County region and the broader Appalachian coalfields. In Virginia, the corridor is a Corridor of Statewide Significance (CoSS) critical for freight mobility . In West Virginia, the route follows Corridor L of the Appalachian Development Highway System, crossing the New River via the iconic New River Gorge Bridge .
+
+The route's total length through West Virginia extends approximately 193 miles before continuing into Pennsylvania, with much of the northern segment paralleled by Interstate 79 . Aside from the four-lane limited-access Corridor L sections, US 19 remains largely a two-lane rural road with numerous curves outside of major cities .
+
+### Virginia Segment Specifications
+
+| Attribute | Specification |
+|---|---|
+| **State** | Virginia |
+| **Route Designation** | Corridor of Statewide Significance (CoSS) |
+| **Primary Function** | Freight mobility and regional connectivity |
+| **Key Connections** | I-81 via Southside Corridor, US 460, I-77 |
+| **Major Cities Served** | Abingdon, Lebanon, Tazewell, Bluefield |
+| **Traffic Volume** | Approximately 17,000 vehicles per day, 5% trucks |
+
+### West Virginia Segment Major Intersections
+
+| Location | Mile Marker (from VA line) | Intersection | Notes |
+|---|---|---|---|
+| **Bluefield** | 0.0 | US 19 south (Virginia Avenue) - Continuation into Virginia | Southern terminus in WV |
+| **Princeton** | 12.2 | WV 104 west (Morrison Drive) | South end of WV 104 overlap |
+| **Princeton** | 12.7-12.8 | WV 20 (Main Street) | Traffic circle around Mercer County Courthouse |
+| **Raleigh** | 28.5-28.7 | I-77 (Exit 20) - Bluefield, Beckley | Major Interstate connection |
+| **Ghent** | 38.6 | CR 48 (Odd Road) / I-77 Toll | Secondary I-77 access |
+| **Shady Spring** | 45.1 | WV 3 east (Hinton Road) - Hinton | South end of WV 3 overlap |
+| **Beckley** | 51.1 | WV 3 west (South Fayette Street) | North end of WV 3 overlap |
+| **Beckley** | 51.7 | To I-64 / I-77 - Lewisburg, Bluefield | Interstate access |
+| **Prosperity** | 57.9 | I-64 / I-77 (Toll Road) / WV 16 north | Tolled interchange, I-77 Exit 48 |
+| **Oak Hill** | 66.5 | WV 16 north / WV 61 north | Transition to Corridor L |
+| **Fayetteville** | 74.5 | WV 16 (Court Street) - Fayetteville, Gauley Bridge | New River Gorge Bridge access |
+| **New River** | 75.6 | New River Gorge Bridge | Iconic bridge crossing |
+| **Summersville** | 97.3 | WV 129 - Mount Nebo, Summersville Lake | Recreation access |
+| **Braxton** | 125.2 | I-79 south - Charleston | South end of I-79 overlap |
+| **Weston** | 176.5 | US 33 / US 119 (Second Street) | Major junction in Weston |
+| **Jane Lew** | 183.9 | US 19 continues north | Continuation toward Pennsylvania |
+
+---
+
+## Rail Networks: CSX and Norfolk Southern
+
+### Network Overview
+
+West Virginia is served by two Class I railroads: CSX Transportation (CSXT) and Norfolk Southern (NS). The state rail system comprises 2,401 route miles of track, with CSX as the largest carrier . According to the LATTS Strategic Rail System, CSXT provides service to the strategic port of Huntington and the state capital at Charleston, while Norfolk Southern provides east-west service in the southern part of the state and north-south service in the furthest northeastern corner, connecting to Roanoke, Norfolk, Charlotte, Knoxville, Mobile, and New Orleans .
+
+### CSX Transportation (CSXT) Specifications
+
+| Attribute | Specification |
+|---|---|
+| **Reporting Mark** | CSXT |
+| **West Virginia Route Miles** | 1,113 miles  |
+| **LATTS System Mileage** | 463 miles  |
+| **Percentage of WV Strategic Rail System** | 68%  |
+| **Class** | Class I Railroad |
+| **Formed** | July 1, 1986  |
+| **Key Terminals** | Grafton Terminal (39.34092, -80.01897), Huntington Terminal (38.41925, -82.44515)  |
+| **Connections** | Baltimore, Norfolk, Newport News, Toledo, New Orleans |
+
+**Key CSX Divisions and Routes:**
+
+CSX operates through several divisions in the region, with the Baltimore Division providing service to Grafton and the Florence Division serving Huntington and Charleston . CSX lines through West Virginia connect to major eastern ports (Baltimore, Norfolk, Newport News) and southern ports (New Orleans), as well as to Toledo in the north .
+
+### Norfolk Southern (NS) Specifications
+
+| Attribute | Specification |
+|---|---|
+| **Reporting Mark** | NS |
+| **West Virginia Route Miles** | 801 miles  |
+| **LATTS System Mileage** | 215 miles  |
+| **Percentage of WV Strategic Rail System** | 32%  |
+| **Class** | Class I Railroad |
+| **Key Divisions** | Pocahontas Division |
+| **Key Yards** | Bluefield Yard (37.26984, -81.22232), Elmore Yard (37.56678, -81.40538), Kenova Yard (38.39897, -82.57821), Williamson Yard (37.67427, -82.27736)  |
+| **Connections** | Roanoke, Norfolk, Charlotte, Knoxville, Mobile, New Orleans, Harrisburg, Philadelphia, New York  |
+
+**Key Norfolk Southern Routes:**
+
+The Pocahontas Division provides critical east-west service through southern West Virginia, connecting to Roanoke and Norfolk via Virginia . The division includes the Winding Gulf Branch, a 23.6-mile single-track line owned by Norfolk Southern, with CSX holding 16.1 miles of track rights .
+
+### Rail Network GPS Coordinates Reference
+
+| Location | Description | GPS Coordinates |
+|---|---|---|
+| **CSX Systemwide** | CSX Transportation system reference | 38.93036, -80.41772  |
+| **CSX Baltimore Division - Grafton Terminal** | CSX terminal in Grafton, WV | 39.34092, -80.01897  |
+| **CSX Florence Division - Huntington Terminal** | CSX terminal in Huntington, WV | 38.41925, -82.44515  |
+| **Norfolk Southern Systemwide** | Norfolk Southern system reference | 38.93, -80.42  |
+| **Norfolk Southern - Bluefield Yard** | Major NS yard in Bluefield, VA/WV | 37.26984, -81.22232  |
+| **Norfolk Southern - Elmore Yard** | NS yard in southern WV | 37.56678, -81.40538  |
+| **Norfolk Southern - Kenova Yard** | NS yard near Huntington | 38.39897, -82.57821  |
+| **Norfolk Southern - Williamson Yard** | NS yard in Williamson, WV | 37.67427, -82.27736  |
+| **R.J. Corman West Virginia Lines** | Regional/shortline railroad | 37.90061, -81.25888  |
+
+---
+
+## Interstate Connections
+
+### Overview
+
+The US 19 Corridor connects to four major Interstate highways, providing access to markets throughout the eastern United States. The following table summarizes the key interstate connections:
+
+| Interstate | Length in WV | Length in VA (where applicable) | Primary Connections |
+|---|---|---|---|
+| **I-77** | 187.21 miles (301.29 km) | 69.4 miles (111.7 km)  | Bluefield, Beckley, Charlotte, Cleveland  |
+| **I-64** | 188.75 miles (303.76 km)  | — | Kentucky state line, White Sulphur Springs, Charleston |
+| **I-79** | 160.52 miles (258.33 km)  | — | Charleston, Pittsburgh |
+| **I-81** | 26 miles (42 km)  | — | Virginia state line, Maryland state line |
+
+### Interstate 77 (I-77)
+
+| Attribute | Specification |
+|---|---|
+| **Total Length** | 610.10 miles (981.86 km)  |
+| **West Virginia Length** | 187.21 miles (301.29 km)  |
+| **Virginia Length** | 69.4 miles (111.7 km)  |
+| **Key Connection Points** | US 19 Exit 20 near Princeton, I-64 in Beckley  |
+| **Primary Markets Served** | Charlotte, NC; Cleveland, OH; Charleston, WV |
+| **US 19 Intersection Details** | I-77 Exit 20 near Princeton, WV (mile 28.5-28.7 on US 19)  |
+
+I-77 provides critical north-south access through the heart of West Virginia, connecting the US 19 Corridor to Bluefield to the south and Charleston to the north . The intersection with US 19 near Princeton provides convenient access to the US 19 corridor for freight movements .
+
+### Interstate 64 (I-64)
+
+| Attribute | Specification |
+|---|---|
+| **Total West Virginia Length** | 188.75 miles (303.76 km)  |
+| **Primary Markets Served** | St. Louis, MO; Charleston, WV; Richmond, VA; Norfolk, VA |
+| **US 19 Connection** | US 19 accesses I-64 near Beckley, WV (I-64/I-77 Toll Road interchange)  |
+
+I-64 provides east-west connectivity across West Virginia, connecting the US 19 Corridor to Charleston to the west and the Virginia state line to the east . The interstate is accessible from US 19 via the I-64/I-77 Toll Road interchange near Prosperity, WV (US 19 mile 57.9) .
+
+### Interstate 79 (I-79)
+
+| Attribute | Specification |
+|---|---|
+| **Total West Virginia Length** | 160.52 miles (258.33 km)  |
+| **Formed** | 1967  |
+| **Primary Markets Served** | Charleston, WV; Pittsburgh, PA |
+| **US 19 Connection** | I-79 intersects US 19 near Braxton, WV (US 19 mile 125.2)  |
+
+I-79 provides north-south connectivity from Charleston to the Pennsylvania state line, with US 19 overlapping I-79 for a significant stretch in north-central West Virginia . This overlap begins near Braxton and continues through to near Weston .
+
+### Interstate 81 (I-81)
+
+| Attribute | Specification |
+|---|---|
+| **Total West Virginia Length** | 26 miles (42 km)  |
+| **Formed** | 1963  |
+| **Primary Markets Served** | Virginia Shenandoah Valley; Harrisburg, PA; Atlanta, GA |
+| **US 19 Connection** | US 19 connects to I-81 via the Southside Corridor in Virginia  |
+
+I-81 provides critical north-south connectivity through the Shenandoah Valley, connecting the US 19 Corridor to major markets in Virginia, Pennsylvania, and the Southeast. The connection from US 19 to I-81 is facilitated by the Southside Corridor designation in Virginia .
+
+---
+
+## GPS Coordinates Reference Map
+
+| Infrastructure Element | Location | GPS Coordinates |
+|---|---|---|
+| **US 19 / VA State Line** | Bluefield, VA/WV border | 37.233, -81.200 (approximate) |
+| **US 19 / I-77 Intersection** | Near Princeton, WV | 37.350, -81.050 (approximate) |
+| **US 19 / I-64/I-77 Intersection** | Beckley area, WV | 37.783, -81.183 (approximate) |
+| **US 19 / I-79 Intersection** | Near Braxton, WV | 38.650, -80.683 (approximate) |
+| **US 19 / I-81 Connection** | Abingdon, VA area | 36.717, -81.983 (approximate) |
+| **New River Gorge Bridge** | Fayette County, WV | 38.070, -81.080 (approximate) |
+| **CSX - Huntington Terminal** | Huntington, WV | 38.41925, -82.44515  |
+| **Norfolk Southern - Bluefield Yard** | Bluefield, VA/WV | 37.26984, -81.22232  |
+| **Norfolk Southern - Kenova Yard** | Kenova, WV | 38.39897, -82.57821  |
+
+# Appendix E: PSH Feasibility Study Parameters
+
+## Introduction
+
+Pumped Storage Hydropower (PSH) feasibility studies require systematic evaluation of site selection criteria, reservoir capacity, environmental impacts, and cost estimation. This appendix provides comprehensive parameters for assessing PSH potential along the US 19 Corridor, drawing on established methodologies from national laboratories, academic research, and industry practice.
+
+---
+
+## Site Selection Criteria
+
+### Topographical Requirements
+
+PSH site selection depends primarily on topographical characteristics that determine technical feasibility and economic viability. Recent research has established that **the optimal head for a PSH project is between 200 m and 600 m** (656 to 1,969 feet), and the optimal reservoir capacity is between **5 million and 30 million m³** . The Tazewell County site offers an elevation drop of approximately 1,000 feet, placing it within the optimal range.
+
+Key topographical criteria include:
+
+- **Elevation Differential (Head)**: Minimum 300-500 meters (984-1,640 feet) for economic viability. The Tazewell County site offers approximately 1,000 feet, which is considered an excellent head for a PSH project.
+- **Distance Between Reservoirs**: Should be minimized to reduce penstock costs and hydraulic losses. The distance influences construction costs for the conveyance system (penstock, tunnel, or canal).
+- **Reservoir Geometry**: Sites should accommodate reservoirs with sufficient volume and favorable geometry (length-to-height ratio). Ring-dam reservoirs built on flat topographical features using roller-compacted concrete are common among current proposals .
+- **Geological Stability**: Bedrock must support dam construction and contain hydraulic pressures. Site geology affects dam type selection and foundation costs.
+
+A research study identified **1,663 ring-dam to dry-gully systems** in the contiguous United States that are lower cost than any overlapping alternatives, with these systems constituting **1.5 terawatts (1,500 GW) of capacity** . The greatest density of such opportunities is found in the intermountain west where there are mesas and flat land at bases of mountain ranges . This finding is relevant for the US 19 Corridor region where similar topography exists.
+
+### Site Identification Methodology
+
+Recent advancements in site selection utilize Geographic Information Systems (GIS) and Digital Elevation Models (DEM) for automated site identification :
+
+1. **Depression Identification**: Automated identification of potential reservoir sites using DEM data 
+2. **Catchment Area Search**: Analysis of watershed boundaries and drainage patterns 
+3. **Main Stream Analysis**: Evaluation of water availability and flow characteristics 
+4. **Dam Site Optimization**: Selection of optimal dam location based on terrain and geological constraints 
+5. **Dynamic Threshold Screening**: Filtering based on effective storage capacity, water head, and length-to-height ratio 
+
+For mountainous terrain, suitable sites are identified by finding suitable valleys surrounding existing reservoirs . A new methodology for collaborative site selection using natural and half-basin DEM analysis significantly improves the identification of candidate sites .
+
+### Location-Specific Considerations
+
+For the US 19 Corridor region, site selection must consider:
+
+- **Proximity to Load Centers**: PSH should be situated as close as possible to the load center or renewable energy base to minimize transmission costs and losses .
+- **Proximity to Renewable Energy Sources**: Sites near existing or planned renewable energy generation maximize the value of PSH for grid integration.
+- **Existing Infrastructure**: Availability of transmission lines, roads, and other infrastructure reduces development costs.
+- **Water Availability**: Sufficient water supply for initial fill and ongoing operation (to compensate for evaporation and leakage).
+
+---
+
+## Reservoir Capacity Requirements
+
+### Capacity Determination Parameters
+
+Reservoir capacity is determined by:
+
+| Parameter | Description | Default Value | Notes |
+|---|---|---|---|
+| **Storage Time** | Duration of continuous generation at full capacity | 6-10 hours | Daily cycling typical |
+| **Dead Storage** | Volume below minimum operating level | 2% of total storage | Accounts for sediment accumulation  |
+| **Total Storage Depth** | Depth of reservoir | 50 feet  | Can vary by site |
+| **Power Output** | Installed capacity | 870 MW (Tazewell) | Determines required water volume |
+
+The **storage duration** governs the relationship between power production and storage . For a given power output, longer storage duration requires larger reservoir volume. The proposed Tazewell County PSH facility, with an estimated 870 MW capacity, would require significant reservoir storage to provide the targeted storage duration.
+
+### Reservoir Sizing Methodology
+
+Reservoir capacity calculation follows:
+
+1. **Define Power Requirements**: Determine the facility's power output (MW) and storage duration (hours)
+2. **Calculate Energy Storage Requirement**: Multiply power output by storage duration (MWh)
+3. **Determine Head**: The effective head (elevation difference between reservoirs) drives the volume-energy relationship
+4. **Calculate Required Storage Volume**: The storage volume required is a function of the energy requirement and the head:
+   - **V = (P × t) / (η × ρ × g × H)**
+   - Where V = volume, P = power, t = time, η = efficiency, ρ = water density, g = gravity, H = head
+
+The cost model tool calculates **head, discharge, and power output** at minimum, mean, and maximum power output conditions while incorporating empirical head loss from pipe friction as well as component efficiencies . This is essential for determining the **exact storage volume needed to achieve the desired power output**.
+
+### Upper and Lower Reservoir Configuration
+
+The configuration of upper and lower reservoirs impacts costs and performance:
+
+- **Upper Reservoir Status**: New, Existing, or Refurbishment 
+- **Upper Reservoir Type**: Geomembrane lined reservoir, Bolted Steel Tank, Welded Steel Tank, or Concrete Tank 
+- **Lower Reservoir Status**: New, Existing, or Refurbishment 
+
+The proposed Tazewell County site is a **closed-loop system** requiring construction of **two new reservoirs** . The project is on approximately 2,600 acres owned by Dominion Energy, with the upper reservoir located on top of East River Mountain and the lower reservoir at the base.
+
+---
+
+## Environmental Impact Considerations
+
+### Greenhouse Gas Emissions Assessment
+
+The National Renewable Energy Laboratory (NREL) has developed an integrated **PSH Life Cycle Assessment (LCA) tool** that enables developers to evaluate the life cycle greenhouse gas (GHG) emissions associated with new, domestic closed-loop PSH facilities . This tool is integrated with the cost model, enabling simultaneous assessment of environmental impacts and project costs .
+
+Key findings from the LCA study:
+
+- **The majority of GHG emissions from PSH are attributed to the grid mix of energy used to pump water** from the lower reservoir to the upper reservoir . Therefore, **GHG emission levels decrease in locations with a higher level of renewable energy sources** in the grid mix .
+- **Additional emissions stem from plant construction** (e.g., from diesel-powered equipment, concrete, or steel) and ongoing plant operations .
+- **GHG emissions associated with PSH were lowest among the group studied** when compared to compressed air energy storage and different battery types .
+
+### Environmental Review Process
+
+The FERC licensing process requires detailed environmental studies:
+
+- **Water Quality**: Assessment of changes to water chemistry and temperature from reservoir creation and operation
+- **Aquatic Ecosystems**: Evaluation of impacts on fish passage, aquatic habitat, and species of concern
+- **Terrestrial Habitats**: Analysis of land use changes, habitat fragmentation, and wildlife impacts
+- **Cultural Resources**: Assessment of impacts on archaeological and historical sites
+- **Recreational Resources**: Evaluation of changes to recreational access and opportunities
+
+The environmental review is documented in the **Pre-Application Document (PAD)** and the **Environmental Impact Statement (EIS)** prepared during the FERC licensing process. The process includes extensive public consultation, with opportunities for interested parties to comment on proposed projects .
+
+### Sedimentation and Water Management
+
+The sediment issues of PSH include both the amount and the pattern of sedimentation :
+
+- **Sediment Amount**: Determines the dead water level and dead storage volume 
+- **Sediment Pattern**: Determines the layout of inlet/outlet of the PSH 
+- **Flood Regulation**: When the catchment of the upper reservoir is not large, there is no need to set up a flood discharge facility 
+
+The methodology for assessing **sediment and erosion control** is well established, with the PSPS model capable of handling sedimentation analysis and soil conservation treatment .
+
+---
+
+## Cost Estimation Models
+
+### Cost Model Overview
+
+The National Renewable Energy Laboratory (NREL) has developed a **web-based PSH cost model** that provides bottom-up cost estimation for site-specific PSH projects . The updated platform expands technical detail and analytical scope, allowing developers and planners to test design assumptions, compare site-specific cost drivers, and assess lifecycle impacts within a single, open-source framework .
+
+The cost model applies a **bottom-up approach**, generating estimates based on user-defined parameters such as reservoir geometry, hydraulic head, conveyance layout, dam type, and indirect cost assumptions . Key model features:
+
+- **Component-level unit costs, total component costs, and total plant costs** 
+- **Performance specifications** such as hydraulic head, power output, and discharge flow rates 
+- **Capacity to accommodate both large-scale and small-scale projects**, with distinct calculation pathways for systems below and above 25 MW 
+
+### Input Parameters and Calculation Methodology
+
+The cost model requires the following input specifications:
+
+#### Site Geometry
+- Reservoir volume and dimensions (e.g., Total Storage Depth with default of 50 ft) 
+- Dam type and material (e.g., concrete, rockfill, earthen, roller-compacted concrete)
+- Conveyance layout (penstock length, tunnel type, and material: Steel spiral weld or HDPE) 
+- Hydraulic head (elevation difference between reservoirs)
+
+#### Components and Costs
+- **Water Conveyance System**: Intake gate type (Slide or Radial), penstock characteristics 
+- **Powerhouse**: New, Existing, or Refurbishment status 
+- **Site Preparation**: Access road length (default = 0.5 mile), terrain complexity 
+- **Electromechanical Equipment**: Pump-turbine arrangement (Reversible or Standard), turbine type (Vertical Francis default, Pelton), efficiency (Generating unit: 90% default, Roundtrip: 82% default) 
+
+The model operates by:
+
+1. **Calculating plant performance** using physical and empirical relationships 
+2. **Determining component quantities** (e.g., dam material volume, reservoir volume, tunnel characteristics) 
+3. **Applying unit costs** multiplied by estimated unit quantities and cost adjustment factors (inflation, locational differences, and non-inflation market rates) 
+4. **Calculating indirect costs** using markup rates for each indirect cost component (e.g., tax, contingency) 
+
+### Validation and Accuracy
+
+The cost model has been validated against **seven proposed PSH projects** :
+
+| Project | Location | Status |
+|---|---|---|
+| Eagle Mountain | California | Proposed |
+| Goldendale | Washington | Proposed |
+| Gordon Butte | Montana | Proposed |
+| Seminoe | Wyoming | Proposed |
+| Swan Lake | Oregon | Proposed |
+| White Pine | Nevada | Proposed |
+| Lewis Ridge | Kentucky | Proposed |
+
+**Modeled total cost projections are well within the expected uncertainty range of the cost modeling tool (−30% to +50% or greater)** . The model is set up to allow rapid sensitivity analysis to explore alternative input assumptions and their impact on costs .
+
+### Cost Estimation for the US 19 Corridor
+
+The proposed Tazewell County PSH project is estimated at approximately **$2 billion**. This estimate is consistent with the cost model's findings for large-scale PSH projects in similar topographical settings. The cost estimate includes:
+
+- **Direct capital costs**: Dam construction, reservoir development, conveyance system, powerhouse, and electromechanical equipment
+- **Indirect costs**: Engineering, project management, land acquisition, permitting, and contingency
+- **Construction period**: Approximately 4-5 years for a facility of this scale
+
+**Key cost drivers for Tazewell County**:
+
+1. **Topography and Terrain**: Mountainous terrain increases construction complexity and costs but provides the necessary head
+2. **Access**: Availability of existing roads and transportation infrastructure affects mobilization costs
+3. **Distance to Transmission**: Proximity to existing transmission lines reduces interconnection costs
+4. **Dam Type Selection**: Geologic conditions determine whether concrete, rockfill, or earthfill dams are appropriate
+
+### Cost Model Utility and Access
+
+The cost model is available through the **OpenEI platform** and includes two user interfaces :
+
+- **Web application**: Interactive interface with integrated Life Cycle Assessment tool, enabling cost, impact, or combined analysis 
+- **Downloadable spreadsheet**: All underlying data and formulas, with macro-enabled parametric simulation feature for exploring key input assumptions 
+
+The web application defaults to a **large system** and is fully integrated with the PSH life cycle impacts assessment tool . This integration makes the platform uniquely valuable for evaluating the combined economic and environmental performance of PSH projects .
+
+# Appendix F: Agricultural and Timber Resources
+
+This appendix provides a comprehensive overview of the critical resources, best practices, and regulatory frameworks for agriculture, forestry, and food processing in the US 19 Corridor region. It synthesizes scientific findings and official guidelines to support the region's strategic goals in sustainable forestry, livestock and dairy production, and the development of food processing infrastructure. A key focus is on optimizing the use of reclaimed mine lands for productive forestry and establishing modern, efficient agricultural and food manufacturing operations.
+
+## Hybrid Poplar Silvicultural Guidelines
+
+The reforestation of reclaimed surface mines in the Appalachian coal-producing region presents significant challenges, primarily due to dense ground covers, compacted soils, and unfavorable chemical properties . However, applying appropriate silvicultural treatments can dramatically improve the survival and growth of planted trees. Research conducted across sites in Virginia, West Virginia, and Ohio has demonstrated that intensive silvicultural inputs—specifically the combination of **weed control, tillage, and fertilization**—yield the best results . The success of these treatments is also heavily dependent on the quality of the soil parent material, with oxidized sandstone-derived minesoils, as found in Virginia, showing far superior tree establishment compared to those derived from siltstone and shale .
+
+### Hybrid Poplar Performance and Guidelines
+
+Among the species tested, **hybrid poplar** has demonstrated exceptional potential for reforesting reclaimed mine lands in the region . The following performance data highlights its suitability and response to intensive management:
+
+| Species | First-Year Growth (Height) | Response to Silvicultural Inputs |
+| :--- | :--- | :--- |
+| **Hybrid Poplar** | **Up to 127 cm** (under most intensive treatment)  | Height and diameter growth increase significantly with intensive inputs (weed control, tillage, fertilization)  |
+| **White Pine** | ~9 cm  | Generally not affected by the silvicultural treatments applied  |
+| **Native Hardwoods** | ~8 cm  | Generally not affected by the silvicultural treatments applied  |
+
+A more detailed analysis of hybrid poplar biomass from a site in West Virginia further underscores the value of intensive silviculture. The above- and below-ground biomass of the trees increased from **16 grams under the least intensive treatment to 104 grams under the most intensive treatment**, which also significantly improved foliar nutrition . This evidence suggests that with proper site selection and intensive management, hybrid poplar is a highly suitable species for establishing productive, fast-growing forests on reclaimed mine lands.
+
+---
+
+## Reclaimed Mine Land Forestry: Appalachian Regional Reforestation Initiative (ARRI)
+
+The **Appalachian Regional Reforestation Initiative (ARRI)** is a federal-state partnership, led by the Office of Surface Mining Reclamation and Enforcement (OSMRE), that promotes the reforestation of previously mined lands across Appalachia . ARRI's mission is to use science-based techniques to restore health, diverse forests on legacy, active, and abandoned mine sites, aiming to provide environmental, economic, and community benefits . The initiative works with coal operators, landowners, state and federal agencies, and other stakeholders to achieve this goal .
+
+### The Forestry Reclamation Approach (FRA)
+
+The core of ARRI's methodology is the **Forestry Reclamation Approach (FRA)** . This approach is based on five key steps to ensure successful reforestation :
+
+1.  **Create a Suitable Rooting Medium**: Establish a growth medium that is no less than four feet deep, comprised of topsoil, weathered sandstone, or the best available material .
+2.  **Loosely Grade the Topsoil**: Create a non-compacted growth medium to allow for deep root penetration .
+3.  **Use Tree-Compatible Ground Covers**: Choose ground covers that do not aggressively compete with tree seedlings .
+4.  **Plant Two Types of Trees**: Plant a mix of early-successional species for wildlife and soil stability, and commercially valuable crop trees .
+5.  **Use Proper Tree Planting Techniques**: Ensure correct planting depth and spacing for high survival rates .
+
+ARRI has been most successful through building strong partnerships with individuals and groups who share the goal of science-based reforestation . An example of this work is a project in Jackson County, Ohio, where a family, with the support of the state AML Program and ARRI, planted approximately **700 native tree seedlings per acre** on their 60-acre reclaimed property . The family hosted a "Freedom 250" tree planting day to commemorate the nation's 250th anniversary, with several generations participating in hand-planting seedlings to restore a healthy forest on the land . This project demonstrates how ARRI's approach and partnerships can transform former mine sites into thriving, productive forests.
+
+---
+
+## Livestock and Dairy Best Practices
+
+Modern dairy operations in Virginia are increasingly adopting technologies and practices that improve efficiency, animal welfare, and environmental stewardship. By leveraging technology and a focus on cow comfort, farmers are ensuring the long-term viability of their operations . These best practices can serve as a model for operations within the US 19 Corridor, particularly as they integrate with the region's food manufacturing goals.
+
+### Automation and Herd Monitoring
+
+The adoption of advanced technologies is a key trend in modern dairy farming. For example, activity monitoring systems are providing real-time data on rumination, activity, and heat detection, allowing for earlier identification of sick cows and more precise breeding management . The integration of **Automatic Milking Systems (AMS)** is another significant innovation, which allows cows to be milked voluntarily throughout the day, helps automate the farming schedule, and provides data on each cow's health, productivity, and nutrition .
+
+### Animal Welfare and Sustainability
+
+Investing in **cow comfort** has proven to be essential for business viability, with upgrades like deep-bed sand stalls, fans, and sprinkler systems improving udder health, reducing somatic cell counts, and increasing milk production . Furthermore, sustainability practices are becoming central to operations. Farmers are adopting **manure injection** to improve soil health and reduce odors , planting cover crops, and implementing no-till methods to enhance soil conservation . These practices are often supported by partnerships with milk cooperatives and environmental organizations, providing financial incentives for farmers who adopt them .
+
+---
+
+## Food Processing Facility Requirements (USDA Inspection)
+
+For food processing facilities, such as the Blue Ridge Butchery, compliance with USDA standards is a fundamental requirement for operations. A key component of this is meeting the requirements for **Good Manufacturing Practices (GMPs)**, which are verified through the USDA's **Plant Systems Audit (PSA)** program . This audit provides an objective, third-party assessment of a facility's food safety and quality systems, and is often a prerequisite for establishing supply chain relationships .
+
+### Plant Systems Audit (PSA) Scope
+
+The scope of a Plant Systems Audit (PSA) is comprehensive, covering not just basic GMPs but also a range of critical food safety areas relevant to a facility's operation :
+
+| Audit Scope | Description |
+| :--- | :--- |
+| **Good Manufacturing Practices (GMP)** | Assessment of facility design, maintenance, and operational procedures to ensure food safety . |
+| **Preventive Controls** | Evaluation of a food safety plan to identify and prevent hazards in the production process . |
+| **HACCP** | Verification of a Hazard Analysis and Critical Control Point plan to manage significant food safety risks . |
+| **Cold Chain Controls** | Audits of storage and transportation temperature controls to maintain product integrity and safety . |
+| **Low Moisture Foods** | Specialized review of practices for facilities handling products with low water activity, such as spices or dehydrated goods . |
+| **Food Defense** | Assessment of measures taken to protect the food supply from intentional contamination . |
+
+### Key GMP Requirements for Facilities
+
+The USDA's GMP requirements include specific provisions for facility design, equipment, and operations . The following table outlines some of the key requirements from the USDA audit checklist :
+
+| Requirement Category | Specific Requirement |
+| :--- | :--- |
+| **Equipment & Utensils** | All plant equipment must be adequately cleanable and maintained . Food-contact surfaces must be corrosion-resistant, made of nontoxic materials, and designed to withstand the environment of their intended use and cleaning process . |
+| **Construction & Design** | Equipment must be constructed and located to be accessible for cleaning and maintenance . Seams on food-contact surfaces must be sanitary welds, smoothly bonded to minimize accumulation of food particles and organic matter . |
+| **Temperature Control** | Freezer and cold storage compartments must be fitted with an indicating thermometer, temperature-measuring device, or temperature recording device . Instruments used for measuring and regulating temperatures must be properly maintained and calibrated . |
+| **Sanitary Facilities** | The water supply must be adequate and derived from an adequate source. Private wells must be inspected on an annual basis with testing results showing that water used for processing, cleaning, or as an ingredient is potable . |
+
+### Contact Information
+
+For additional information on USDA audits, please contact:
+
+| Service | Contact | Email / Phone |
+| :--- | :--- | :--- |
+| **Plant Systems Audits (PSA)** | USDA Agricultural Marketing Service | SCAudits@usda.gov / (202) 720-5021  |
+| **Plant Surveys** | USDA Specialty Crops Inspection (SCI) Division | SCIinspectionoperations@usda.gov / (202) 720-5870  |
